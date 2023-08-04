@@ -1,5 +1,5 @@
 # www.lembo.us
-Source for my static home page.
+Source for my _new_ static home page.
 
 Released under a Creative Commons Attribution-ShareAlike License.
 
